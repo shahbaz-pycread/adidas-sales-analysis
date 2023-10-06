@@ -9,7 +9,7 @@ The dataset provides detailed information about each sale, including retailer in
 
 The dataset used for this analysis was obtained from an external source. The dataset can be accessed and downloaded from the following link: [Kaggle](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
 
-### ** Data Analysis Tool**:
+### **Data Analysis Tool**:
 
 For this data analysis task, we utilized SQL as the primary tool. SQL (Structured Query Language) is a powerful language for managing and analyzing structured data. 
 It allows us to perform various data manipulation tasks, including filtering, aggregating, and transforming data, 
